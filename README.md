@@ -19,3 +19,5 @@ There are several approaches to topic modeling, including:
 **3. Non-negative Matrix Factorization (NMF):** It is a dimensionality reduction technique that factors a term-document matrix into two term-topic and topic-document matrices, where the resulting matrices are non-negative.
 
 **4. BERTopic:** It is a more recent approach that applies the BERT (Bidirectional Encoder Representations from Transformers) model to identify topics in a set of documents. It better captures the context and semantics of words.
+
+The purpose of this project was to scrape, analyze, compare and model text from websites. The texts chosen was Data Science and Natural Language Processing. Both of them from wikipedia.
